@@ -1,16 +1,1 @@
-[
-  {
-    "name": "dd",
-    "address": "23",
-    "cuisine": "a",
-    "website": "https://www.italian.com",
-    "description": "dd"
-  },
-  {
-    "name": "Test01",
-    "address": "123 Street Ave",
-    "cuisine": "american",
-    "website": "https://www.italian.com",
-    "description": "good food!!!"
-  }
-]
+[{"name":"dd","address":"23","cuisine":"a","website":"https://www.italian.com","description":"dd"},{"name":"Test01","address":"123 Street Ave","cuisine":"american","website":"https://www.italian.com","description":"good food!!!"},{"name":"Test3","address":"test street 123","cuisine":"mexican","website":"https://www.italian.com","description":"ddd"},{"name":"Test01","address":"23","cuisine":"american","website":"https://www.italian.com","description":"ddd"}]
