@@ -14,7 +14,7 @@ main {
 
 main h1 {
   font-family: 'Roboto Condensed', 'Roboto', sans-serif;
-  color: rgb(95, 83, 58);
+  color:rgb(202, 158, 62);
 }
 
 main p {
@@ -32,7 +32,7 @@ main p {
 }
 
 #logo {
-  font-family: 'Roboto Condesed', 'Roboto', sans-serif;
+  font-family: 'Roboto Condensed', 'Roboto', sans-serif;
   font-weight: bold;
   font-size: 2rem;
 }
@@ -40,7 +40,7 @@ main p {
 #logo a {
   text-decoration: none;
   color: white;
-  padding: 1rem 2.4rem;
+  padding: 1rem 2.5rem;
   background-color: rgb(240, 167, 9);
   border-radius: 50%;
 }
@@ -68,7 +68,7 @@ main p {
 }
 
 #main-header .nav-item a:hover,
-#main-header .nav-item a:acitve {
+#main-header .nav-item a:active {
   background-color: rgb(245, 222, 173);
 }
 
@@ -145,6 +145,7 @@ main p {
     display: none;
   }
 }
+
 
 @media (min-width: 80rem) {
   #main-header {
