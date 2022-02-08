@@ -1,8 +1,25 @@
 {
-  "dependencies": {
-    "express": "^4.17.2"
+  "name": "0019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jripke74/100-0019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jripke74/100-0019/issues"
+  },
+  "homepage": "https://github.com/jripke74/100-0019#readme",
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
   }
 }
