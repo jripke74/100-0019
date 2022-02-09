@@ -6,9 +6,9 @@
 <%- include('includes/side-drawer') %>
 <main>
   <h1><%= restaurant.name %></h1>
-  <P>Cuisine | Address</P>
-  <p>Description of the restaurant</p>
-  <p><a href="">View Website</a></p>
+  <P><%= restaurant.cuisine %> | <%= restaurant.address %></P>
+  <p><%= restaurant.description %></p>
+  <p><a href="<%= restaurant.website %>">View Website</a></p>
 </main>
 </body>
 </html>
