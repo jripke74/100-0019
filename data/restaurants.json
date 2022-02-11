@@ -1,10 +1,1 @@
-[
-  {
-    "name": "Restaurant name",
-    "address": "Address",
-    "cuisine": "Type of cuisine",
-    "website": "https://www.italian.com",
-    "description": "why ",
-    "id": "4e743acd-7c82-47b3-9f0e-d598269cb23b"
-  }
-]
+[{"name":"A Rest","address":"123 Street Ave","cuisine":"American","website":"https://www.italian.com","description":"This is a test of the...","id":"7cd02a9f-1bfa-41cd-8ce8-194efe0b1ab1"},{"name":"B Rest","address":"123 Street Ave","cuisine":"Mexican","website":"https://www.italian.com","description":"This is a test of the...","id":"017d7d56-ac5a-4564-9027-d2462d53a3c3"},{"name":"Z Rest.","address":"123 Street Ave","cuisine":"Mexican","website":"https://www.italian.com","description":"This is a test of the...","id":"5b3f543b-bfdb-4048-a27b-9c6d92fb3500"}]
