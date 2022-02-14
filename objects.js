@@ -31,3 +31,13 @@ const cook = new Job('Cook', 'Munich', 35000);
 
 developer.describe();
 cook.describe();
+
+const input = ['Doug', 'Ripke', 'J. Allen'];
+const [ , , middle] = input;
+
+console.log(middle);
+
+const job = { title: 'Fullstack Developer', location: 'New York'};
+const { title: jTitle } = job;
+
+console.log(jTitle);
