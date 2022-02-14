@@ -16,7 +16,10 @@ function readFile() {
       console.log(fileData.toString());
       // return anotherAsyncOperation;
     })
-    .then(function () {});
+    .then(function () {})
+    .catch(function(error) {
+      console.log(error);
+    });
 
   console.log('Hi there!');
 }
